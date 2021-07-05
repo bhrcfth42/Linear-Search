@@ -1,3 +1,3 @@
-# Linear-Search
+# Linear Search
 
-Lineer Arama Algoritması
+Lineer Arama Algoritması - Linear Search Algorithm
